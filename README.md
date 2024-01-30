@@ -1,13 +1,14 @@
-### Hi there, I'm Svitlana 👩🏻‍💻
+### Hi, I'm Lana 👩🏻‍💻
+
 I'm currently a Computer Science student with a passion for Web Development, especially in creating interactive and user-friendly web applications. I love to explore new technologies and build projects that challenge me to learn more.
 
-### Skills and Experience
+### Skills
 - 🌐 Web Development: HTML, CSS, JavaScript
 - ⚛️ Framework: React(In Progress)
 - 🛠 Tools: Git,  GitHub, Visual Studio Code
 - 📚 Currently Learning: React
 
-### Connect with Me 🙋🏻‍♀️
+### Connect with Me 🙋🏻‍♀
 - Email: svitlana.dvoriankina@nure.ua
 - LinkedIn: https://www.linkedin.com/in/svitlana-dvoriankina/
 
