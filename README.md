@@ -8,10 +8,14 @@ I'm currently a Computer Science student with a passion for Web Development, esp
 - 🛠 Tools: Git,  GitHub, Visual Studio Code
 - 📚 Currently Learning: React
 
-### Connect with Me 🙋🏻‍♀
+### Connect with Me 📫
 - Email: svitlana.dvoriankina@nure.ua
 - LinkedIn: https://www.linkedin.com/in/svitlana-dvoriankina/
 
+### ✨ Fun fact:
+- Demon Slayer is my favorite anime.
+- When I was a child, I used to go figure skating ⛸️
+- I adore making things with my own hands 🧶
   
 <!--
 **klnamv/klnamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
