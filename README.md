@@ -7,7 +7,7 @@ Currently I'm a Computer Science student with a passion for Web Development, esp
 
 **Tools**: `Git`,  `GitHub`, `VS Code`
 
-*Currently Practice in creatiop React apps* 🪴
+*Currently Practice in creation React apps* 🪴
 
 # Fun fact about me ✨
 - Demon Slayer is my favorite anime.
