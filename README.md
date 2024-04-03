@@ -3,7 +3,7 @@
 Currently I'm a Computer Science student with a passion for Web Development, especially in creating interactive and user-friendly web applications. I love to explore new technologies and build projects that challenge me to learn more.
 
 # Skills 📦
-**Fronted Development**: `JavaScript` `React` `CSS` `Tailwind` `Framer-Motion` 
+**Fronted Development**: `JavaScript` `TypeScript` `React` `CSS` `Tailwind` `Framer-Motion` 
 
 **Tools**: `Git`,  `GitHub`, `VS Code`
 
