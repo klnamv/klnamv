@@ -17,10 +17,6 @@
 **Other**: `JavaScript`, `TypeScript`, `React`, `Sass`, `Tailwind`
 
 
-# Fun fact about me ✨
-
-
-
 # 📫  Connect with Me 
 Email: svitlana.dvoriankina@nure.ua
 
