@@ -28,12 +28,12 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 # Let’s Keep in Touch! 📫
 
-Email: svitlana.dvoriankina@nure.ua
+**Email**: svitlana.dvoriankina@nure.ua
 
-LinkedIn: https://www.linkedin.com/in/svitlana-dvoriankina/
+**LinkedIn**: https://www.linkedin.com/in/svitlana-dvoriankina/
 
-p.s. I love making new professional connections and learning from others.\
-Feel free to reach out on LinkedIn or send me an email anytime!
+*p.s. I love making new professional connections and learning from others.\
+Feel free to reach out on LinkedIn or send me an email anytime!*
 
 
 
