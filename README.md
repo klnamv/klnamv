@@ -28,7 +28,7 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 # Let’s Keep in Touch! 📫
 
-**Email**: svitlana.dvoriankina@nure.ua
+**Email**: lanarithm@gmail.com
 
 **LinkedIn**: https://www.linkedin.com/in/svitlana-dvoriankina/
 
