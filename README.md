@@ -6,34 +6,32 @@ I thrive in environments that buzz with innovation and love collaborating with t
 *I’m here to grow, learn, and create cool stuff along the way* 🌱
 
 
-# Skills 👩🏻‍💻
+## Skills 👩🏻‍💻
 
-**Data Science**: `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `OpenAI API`, `labelling`, `prompt engineering`
+**Data Science**: `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `PyTorch` `Transformers` `RAG` `OpenAI API` `prompt engineering`
 
-**Data Visualisation**: `PowerBI`, `Tableau`, `Seaborn`, `Matplotlib`
+**Data Visualisation**: `PowerBI` `Tableau` `Seaborn` `Matplotlib`
 
-**Databases**: `MySQL`, `Postgres`, `NotionDatabase(NoSQL)`
+**Databases**: `MySQL` `Postgres` `NotionDatabase(NoSQL)`
 
 **Cloud**: `Docker`
 
-**Tools**: `Git`,  `GitHub`
+**Version Control**: `Git` `GitHub`
 
-**Other**: `JavaScript`, `TypeScript`, `React`, `Sass`, `Tailwind`
+**Other**: `JavaScript` `TypeScript` `React` `Sass` `Tailwind` `Django`
 
-# Few facts about me 🧚🏻‍♀️
+## Few facts about me 🧚🏻‍♀️
 
 - fell in love with working with data while optimizing workflows in a logistics company
-- 100+ solved problems in LeetCode
+- mountain and hiking lover ⛰
+- 100+ solved problems in LeetCode 
 
 
-# Let’s Keep in Touch! 📫
+## Let’s Keep in Touch! 📫
 
 **Email**: lanarithm@gmail.com
 
 **LinkedIn**: https://www.linkedin.com/in/svitlana-dvoriankina/
-
-*p.s. I love making new professional connections and learning from others.\
-Feel free to reach out on LinkedIn or send me an email anytime!*
 
 
 
