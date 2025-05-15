@@ -12,7 +12,7 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 **Data Visualisation**: `PowerBI` `Tableau` `Seaborn` `Matplotlib`
 
-**Databases**: `MySQL` `Postgres` `NotionDatabase(NoSQL)`
+**Databases**: `MySQL` `Postgres` `NotionDatabase(NoSQL)` `FAISS` `Weaviate`
 
 **Cloud**: `Docker`
 
