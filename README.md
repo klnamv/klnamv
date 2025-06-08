@@ -8,7 +8,7 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 ## Skills 👩🏻‍💻
 
-**Data Science**: `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `PyTorch` `Transformers` `RAG` `OpenAI API` `prompt engineering`
+**Data Science**: `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `PyTorch` `Transformers` `RAG` `HuggingFace` `OpenAI API` `prompt engineering`
 
 **Data Visualisation**: `PowerBI` `Tableau` `Seaborn` `Matplotlib`
 
@@ -18,7 +18,7 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 **Version Control**: `Git` `GitHub`
 
-**Other**: `JavaScript` `TypeScript` `React` `Sass` `Tailwind` `Django`
+**Other**: `FastAPI` `Streamlit` `Gradio` `JavaScript` `TypeScript` `React` `Sass` `Tailwind` `Django`
 
 ## Few facts about me 🧚🏻‍♀️
 
@@ -31,7 +31,6 @@ I thrive in environments that buzz with innovation and love collaborating with t
 
 **Email**: lanarithm@gmail.com
 
-**LinkedIn**: https://www.linkedin.com/in/svitlana-dvoriankina/
 
 
 
